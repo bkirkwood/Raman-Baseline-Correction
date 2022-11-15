@@ -4,7 +4,7 @@
 %%                                                 by:  William J Kirkwood, MBARI Engineering
 %                     revised and tested using 2022b with OSX:  2022 November 14.
 %
-%%                          by:  Olivia McLaughlin, MBARI Intern - UC Berkeley Junior
+%%                          by:  Olivia O'Laughlin, MBARI Intern - UC Berkeley Junior
 %                        tested using 2021b with Windows 10:  2022 July 5 to August 8.
 %
 %%  NOTE: point selection using Matlab 2022a may not show red circles until entering return
